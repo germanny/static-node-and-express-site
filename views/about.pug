@@ -1,0 +1,45 @@
+extends layout.pug
+
+block content
+  nav.grid-container.portfolio-breadcrumb
+    a(href='/') ← Back
+  article.grid-container.portfolio-intro.portfolio-project
+    .grid-x
+      .cell.small-6.medium-9.large-9
+
+        h1 Jen Germann
+        p.lead.text-light
+          | Full Stack JavaScript Developer.
+
+        .portfolio-bio
+          p Whether crafting Web interfaces, or turning designs into clean, semantic HTML+CSS, or teaching a dog new tricks, my approach is the same: create simple, intuitive solutions that deliver rewarding experiences.
+
+          p I design and build attractive, user-centered Web sites that feature clean design and simple usability. Whether you need a dynamic website, static HTML+CSS templates, or just a few Photoshop templates, I say let’s do it.
+
+      .cell.portfolio-meta.small-6.medium-2.large-3
+        h6 Skills
+        ul
+          li HTML
+          li CSS/SCSS
+          li JavaScript
+          li Node.js
+          li NPM
+          li Gulp
+          li WebPack
+          li SSG (Jekyll)
+          li Git (Github)
+          li VS Code
+          li coaching/training
+          li leadership
+          li communication
+
+        h6 Contact Info
+        ul
+          li hello@jengermann.com
+
+        //- Add URLs to the hrefs below to link to your social media accounts.
+        a.button.expanded(href='https://www.linkedin.com/in/jengermann/', target='_blank') LinkedIn
+        a.button.expanded(href='https://github.com/germanny', target='_blank') GitHub
+        a.button.expanded(href='https://twitter.com/germanny', target='_blank') Twitter
+  nav.grid-container.portfolio-breadcrumb
+    a(href='/') ← Back

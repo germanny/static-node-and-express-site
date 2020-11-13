@@ -1,0 +1,25 @@
+{
+  "name": "static-node-and-express-site",
+  "version": "1.0.0",
+  "description": "TreeHouse Project 6 - Static Node.js and Express Site",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/germanny/static-node-and-express-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/germanny/static-node-and-express-site/issues"
+  },
+  "homepage": "https://github.com/germanny/static-node-and-express-site#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "pug": "^3.0.0"
+  }
+}

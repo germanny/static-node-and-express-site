@@ -1,0 +1,96 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "project_name": "Project 1 - Random Quote Generator",
+      "description": "Generate a random quote on click from a pre-defined set of quotations using basic JavaScript syntax and data structures.",
+      "technologies": [
+        "JavaScript",
+        "Math functions",
+        "Arrays and Objects",
+        "Code documentation"
+      ],
+      "live_link": "https://germanny.github.io/random-quote-generator/",
+      "github_link": "https://github.com/germanny/random-quote-generator",
+      "image_urls": [
+        "https://res.cloudinary.com/germanny/image/upload/f_auto,fl_lossy,q_auto/v1/project-images/treehouse/project-1.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "project_name": "Project 2 - Data Pagination and Filtering",
+      "description": "Display pages of students the user can easily filter and navigate through with JavaScript.",
+      "technologies": [
+        "JavaScript",
+        "Reusable functions",
+        "Loops",
+        "Data filtering",
+        "Data pagination"
+      ],
+      "live_link": "https://germanny.github.io/data-pagination-filtering/",
+      "github_link": "https://github.com/germanny/data-pagination-filtering",
+      "image_urls": [
+        "https://res.cloudinary.com/germanny/image/upload/f_auto,fl_lossy,q_auto/v1/project-images/treehouse/project-2.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "project_name": "Project 3 - Interactive Form",
+      "description": "Create an interactive form to collect and validate user input with JavaScript.",
+      "technologies": [
+        "JavaScript",
+        "Form validation"
+      ],
+      "live_link": "https://germanny.github.io/interactive-form/",
+      "github_link": "https://github.com/germanny/interactive-form",
+      "image_urls": [
+        "https://res.cloudinary.com/germanny/image/upload/f_auto,fl_lossy,q_auto/v1/project-images/treehouse/project-3.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "project_name": "Project 4 - OOP Game Show App",
+      "description": "Create a browser-based, word guessing game with JavaScript and OOP (Object-Oriented Programming) to select a random, hidden phrase.",
+      "technologies": [
+        "JavaScript",
+        "Object-Oriented Programming"
+      ],
+      "live_link": "https://germanny.github.io/oop-game-show/",
+      "github_link": "https://github.com/germanny/oop-game-show",
+      "image_urls": [
+        "https://res.cloudinary.com/germanny/image/upload/f_auto,fl_lossy,q_auto/v1/project-images/treehouse/project-4.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "project_name": "Project 5 - Public API Request",
+      "description": "Use JavaScript to create an employee directory from a third-party API.",
+      "technologies": [
+        "JavaScript",
+        "Fetch API",
+        "Promises",
+        "Asynchronous programming"
+      ],
+      "live_link": "https://germanny.github.io/public-api-request-v1/",
+      "github_link": "https://github.com/germanny/public-api-request-v1",
+      "image_urls": [
+        "https://res.cloudinary.com/germanny/image/upload/f_auto,fl_lossy,q_auto/v1/project-images/treehouse/project-5.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "project_name": "Project 6: Static Node.js and Express Site",
+      "description": "A portfolio site created with Node.js, Express, and Pug to showcase my JavaScript projects.",
+      "technologies": [
+        "Node.js",
+        "Express",
+        "Pug Templates"
+      ],
+      "live_link": "#",
+      "github_link": "https://github.com/germanny/static-node-and-express-site",
+      "image_urls": [
+        "https://res.cloudinary.com/germanny/image/upload/f_auto,fl_lossy,q_auto/v1/project-images/treehouse/project-6.jpg"
+      ]
+    }
+  ]
+}
