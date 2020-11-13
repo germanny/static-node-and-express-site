@@ -3,9 +3,10 @@ body {
   color: #02072f;
 }
 
-h1,h2,h3,h4,h5,p{
+h1,h2,h3,h4,h5{
   color: #02072f;
-  font-family: 'Merriweather', serif;
+  font-family: 'Arvo', serif;
+  line-height: 1.2;
 }
 
   h5{
@@ -24,8 +25,10 @@ h1,h2,h3,h4,h5,p{
   }
 
   p{
-    font-size: 15px;
     color: #636592;
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+    line-height: 1.4;
   }
 
 .round{
@@ -49,7 +52,7 @@ a{
 }
 
 a:hover{
-  color: #02072f;
+  color: #383b79;
 }
 
 .image{
@@ -123,7 +126,7 @@ a:hover{
   }
 
   .portfolio-index a{
-    color: #222;
+    color: #02072f;
   }
 
   .portfolio-index .cell{
@@ -131,10 +134,12 @@ a:hover{
   }
 
     .portfolio-index .cell h5{
+      color: #02072f;
       letter-spacing: 1px;
     }
 
 .portfolio-meta{
+  padding-bottom: 20px;
   padding-left: 20px;
 }
 
@@ -148,7 +153,7 @@ a:hover{
 
 .portfolio-project li{
   font-size: 13px;
-  color: #444;
+  color: #636592;
 }
 
 .portfolio-bio{
