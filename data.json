@@ -14,7 +14,9 @@
       "github_link": "https://github.com/germanny/random-quote-generator",
       "image_urls": [
         "https://res.cloudinary.com/germanny/image/upload/f_auto,fl_lossy,q_auto/v1/project-images/treehouse/project-1.jpg"
-      ]
+      ],
+      "color": "#008c6e",
+      "color_alt": "#ebad00"
     },
     {
       "id": 2,
@@ -31,7 +33,9 @@
       "github_link": "https://github.com/germanny/data-pagination-filtering",
       "image_urls": [
         "https://res.cloudinary.com/germanny/image/upload/f_auto,fl_lossy,q_auto/v1/project-images/treehouse/project-2.jpg"
-      ]
+      ],
+      "color": "#4dc0de",
+      "color_alt": "#e05962"
     },
     {
       "id": 3,
@@ -45,7 +49,9 @@
       "github_link": "https://github.com/germanny/interactive-form",
       "image_urls": [
         "https://res.cloudinary.com/germanny/image/upload/f_auto,fl_lossy,q_auto/v1/project-images/treehouse/project-3.jpg"
-      ]
+        ],
+        "color": "#636592",
+        "color_alt": "#030e5e"
     },
     {
       "id": 4,
@@ -59,7 +65,9 @@
       "github_link": "https://github.com/germanny/oop-game-show",
       "image_urls": [
         "https://res.cloudinary.com/germanny/image/upload/f_auto,fl_lossy,q_auto/v1/project-images/treehouse/project-4.jpg"
-      ]
+      ],
+      "color": "#383b79",
+      "color_alt": "#4dc0de"
     },
     {
       "id": 5,
@@ -75,22 +83,26 @@
       "github_link": "https://github.com/germanny/public-api-request-v1",
       "image_urls": [
         "https://res.cloudinary.com/germanny/image/upload/f_auto,fl_lossy,q_auto/v1/project-images/treehouse/project-5.jpg"
-      ]
+      ],
+      "color": "#e05962",
+      "color_alt": "#030e5e"
     },
     {
       "id": 6,
       "project_name": "Project 6: Static Node.js and Express Site",
-      "description": "A portfolio site created with Node.js, Express, and Pug to showcase my JavaScript projects.",
+      "description": "This portfolio site, created with Node.js, Express, and Pug to showcase my JavaScript projects.",
       "technologies": [
         "Node.js",
         "Express",
         "Pug Templates"
       ],
-      "live_link": "#",
+      "live_link": "",
       "github_link": "https://github.com/germanny/static-node-and-express-site",
       "image_urls": [
         "https://res.cloudinary.com/germanny/image/upload/f_auto,fl_lossy,q_auto/v1/project-images/treehouse/project-6.jpg"
-      ]
+      ],
+      "color": "#ebad00",
+      "color_alt": "#4dc0de"
     }
   ]
 }
