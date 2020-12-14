@@ -34,8 +34,8 @@
       "image_urls": [
         "https://res.cloudinary.com/germanny/image/upload/f_auto,fl_lossy,q_auto/v1/project-images/treehouse/project-2.jpg"
       ],
-      "color": "#4dc0de",
-      "color_alt": "#e05962"
+      "color": "#41b4d7",
+      "color_alt": "#dd5d6a"
     },
     {
       "id": 3,
@@ -50,8 +50,8 @@
       "image_urls": [
         "https://res.cloudinary.com/germanny/image/upload/f_auto,fl_lossy,q_auto/v1/project-images/treehouse/project-3.jpg"
         ],
-        "color": "#636592",
-        "color_alt": "#030e5e"
+        "color": "#505081",
+        "color_alt": "#05054b"
     },
     {
       "id": 4,
@@ -67,7 +67,7 @@
         "https://res.cloudinary.com/germanny/image/upload/f_auto,fl_lossy,q_auto/v1/project-images/treehouse/project-4.jpg"
       ],
       "color": "#383b79",
-      "color_alt": "#4dc0de"
+      "color_alt": "#41b4d7"
     },
     {
       "id": 5,
@@ -84,8 +84,8 @@
       "image_urls": [
         "https://res.cloudinary.com/germanny/image/upload/f_auto,fl_lossy,q_auto/v1/project-images/treehouse/project-5.jpg"
       ],
-      "color": "#e05962",
-      "color_alt": "#030e5e"
+      "color": "#dd5d6a",
+      "color_alt": "#05054b"
     },
     {
       "id": 6,
@@ -102,7 +102,42 @@
         "https://res.cloudinary.com/germanny/image/upload/f_auto,fl_lossy,q_auto/v1/project-images/treehouse/project-6.jpg"
       ],
       "color": "#ebad00",
-      "color_alt": "#4dc0de"
-    }
+      "color_alt": "#41b4d7"
+    },
+    {
+      "id": 7,
+      "project_name": "Project 7: React Image Gallery App",
+      "description": "Display images from the Flickr API using React and axios.",
+      "technologies": [
+        "React",
+        "React Router",
+        "Axios",
+        "Create React App"
+      ],
+      "live_link": "",
+      "github_link": "https://github.com/germanny/react-gallery-app",
+      "image_urls": [
+        "https://res.cloudinary.com/germanny/image/upload/f_auto,fl_lossy,q_auto/v1/project-images/treehouse/project-7.jpg"
+      ],
+      "color": "#2a2a66",
+      "color_alt": "#41b4d7"
+    },
+    {
+      "id": 8,
+      "project_name": "Project 8: SQL Library Manager",
+      "description": "Perform CRUD operations on a database using Node.js and Express, with Pug templates.",
+      "technologies": [
+        "Node.js",
+        "Express",
+        "Pug Templates"
+      ],
+      "live_link": "",
+      "github_link": "https://github.com/germanny/sql-library-manager",
+      "image_urls": [
+        "https://res.cloudinary.com/germanny/image/upload/f_auto,fl_lossy,q_auto/v1/project-images/treehouse/project-8.jpg"
+      ],
+      "color": "#f0f0f4",
+      "color_alt": "#008c6e"
+    },
   ]
 }
