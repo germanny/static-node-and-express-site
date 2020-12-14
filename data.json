@@ -119,8 +119,8 @@
       "image_urls": [
         "https://res.cloudinary.com/germanny/image/upload/f_auto,fl_lossy,q_auto/v1/project-images/treehouse/project-7.jpg"
       ],
-      "color": "#2a2a66",
-      "color_alt": "#41b4d7"
+      "color": "#41b4d7",
+      "color_alt": "#2a2a66"
     },
     {
       "id": 8,
@@ -137,7 +137,7 @@
         "https://res.cloudinary.com/germanny/image/upload/f_auto,fl_lossy,q_auto/v1/project-images/treehouse/project-8.jpg"
       ],
       "color": "#f0f0f4",
-      "color_alt": "#008c6e"
+      "color_alt": "#2a2a66"
     }
   ]
 }
