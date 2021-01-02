@@ -49,9 +49,9 @@
       "github_link": "https://github.com/germanny/interactive-form",
       "image_urls": [
         "https://res.cloudinary.com/germanny/image/upload/f_auto,fl_lossy,q_auto/v1/project-images/treehouse/project-3.jpg"
-        ],
-        "color": "#505081",
-        "color_alt": "#05054b"
+      ],
+      "color": "#505081",
+      "color_alt": "#05054b"
     },
     {
       "id": 4,
@@ -138,6 +138,24 @@
       ],
       "color": "#f0f0f4",
       "color_alt": "#2a2a66"
+    },
+    {
+      "id": 9,
+      "project_name": "Project 9: REST API using Express",
+      "description": "A REST API using Express providing authenitacted users a way to interact with the database to create, retrieve, update, or delete data.",
+      "technologies": [
+        "Node.js",
+        "Express",
+        "REST API",
+        "Sequelize"
+      ],
+      "live_link": "",
+      "github_link": "https://github.com/germanny/rest-api-sql-v3",
+      "image_urls": [
+        "https://res.cloudinary.com/germanny/image/upload/f_auto,fl_lossy,q_auto/v1/project-images/treehouse/project-9.jpg"
+      ],
+      "color": "#f7f7f9",
+      "color_alt": "#e9979f"
     }
   ]
 }
