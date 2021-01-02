@@ -26,5 +26,8 @@ block content
         a.button.expanded(href=`${project.github_link}`, target='_blank') GitHub Repo
 
     each img_url in project.image_urls
-      a(href=`${project.live_link}`, target='_blank', title='Click for Live Demo')
-        img.image(src=`${img_url.replace("upload/", "upload/c_scale,w_1200,")}`)
+      if (project.live_link)
+        a(href=`${project.live_link}`, target='_blank', title='Click for Live Demo')
+          img.image(src=`${img_url.replace("upload/", "upload/c_scale,w_1200,")}`)
+      else
+          img.image(src=`${img_url.replace("upload/", "upload/c_scale,w_1200,")}`)
